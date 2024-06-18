@@ -10,10 +10,10 @@ function Cabecalho() {
                 <img src={logo} alt="Logo do cinetag"/>
             </Link>
             <nav>
-                <CabecalhoLink url="./">
+                <CabecalhoLink url="/">
                     Home
                 </CabecalhoLink>
-                <CabecalhoLink url="./favoritos">
+                <CabecalhoLink url="/favoritos">
                     Favoritos
                 </CabecalhoLink>
             </nav>

@@ -9,6 +9,12 @@
     box-shadow: 3px 3px 6px #888888;
 }
 
+.link {
+    text-decoration: none;
+    color: var(--preto);
+    text-align: left;
+}
+
 .capa {
     width: 100%;
 }
